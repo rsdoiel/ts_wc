@@ -14,7 +14,7 @@
   "dateModified": "2025-03-16",
   "description": "This is an example of using Mistral Le Chat to recreate the POSIX `wc` command written in TypeScript. The full transcript is available at <https://chat.mistral.ai/chat/e97f1834-4e60-451a-b317-adcc301dbf12>.",
   "name": "wc",
-  "license": "https://www.gnu.org/licenses/agpl-3.0.en.html#license-text",
+  "license": "https://opensource.org/license/BSD-3-Clause",
   "programmingLanguage": [
     "TypeScript"
   ],
