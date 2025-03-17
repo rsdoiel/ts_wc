@@ -1,53 +1,36 @@
----
-title: wc
-abstract: "This is an example of using Mistral Le Chat to recreate the POSIX &#x60;wc&#x60; command written in TypeScript. The full transcript is available at &lt;https://chat.mistral.ai/chat/e97f1834-4e60-451a-b317-adcc301dbf12&gt;."
-authors:
-  - family_name: Doiel
-    given_name: R. S.
-    id: https://orcid.org/0000-0003-0900-6903
 
 
+# wc 0.0.0
 
-repository_code: https://github.com/rsdoiel/ts_wc
-version: 0.0.0
-license_url: https://www.gnu.org/licenses/agpl-3.0.en.html#license-text
+This is an example of using Mistral Le Chat to recreate the POSIX `wc` command written in TypeScript. The full transcript is available at <https://chat.mistral.ai/chat/e97f1834-4e60-451a-b317-adcc301dbf12>.
 
-programming_language:
-  - TypeScript
+## Release Notes
 
+- version: 0.0.0
+- status: concept
 
-
----
-
-About this software
-===================
-
-## wc 0.0.0
 
 Proof of concept of using an LLM to recreate the &quot;wc&quot; command
 
+
 ### Authors
 
-- R. S. Doiel, <https://orcid.org/0000-0003-0900-6903>
+- Doiel, R. S.
 
 
 
-
-
-This is an example of using Mistral Le Chat to recreate the POSIX &#x60;wc&#x60; command written in TypeScript. The full transcript is available at &lt;https://chat.mistral.ai/chat/e97f1834-4e60-451a-b317-adcc301dbf12&gt;.
-
-- License: <https://www.gnu.org/licenses/agpl-3.0.en.html#license-text>
-- GitHub: <https://github.com/rsdoiel/ts_wc>
-
-
-### Programming languages
-
-- TypeScript
-
-
-
-
-### Software Requirements
+## Software Requirements
 
 - Deno 2.2
+
+Uses: Deno 2.2
+
+## Related resources
+
+
+
+
+- [LICENSE](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text)
+- [Installation](INSTALL.md)
+- [About](about.md)
 
