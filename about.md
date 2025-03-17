@@ -1,6 +1,6 @@
 ---
 title: wc
-abstract: "This is an example of using Mistral Le Chat to recreate the POSIX &#x60;wc&#x60; command written in TypeScript."
+abstract: "This is an example of using Mistral Le Chat to recreate the POSIX &#x60;wc&#x60; command written in TypeScript. The full transcript is available at &lt;https://chat.mistral.ai/chat/e97f1834-4e60-451a-b317-adcc301dbf12&gt;."
 authors:
   - family_name: Doiel
     given_name: R. S.
@@ -34,7 +34,7 @@ Proof of concept of using an LLM to recreate the &quot;wc&quot; command
 
 
 
-This is an example of using Mistral Le Chat to recreate the POSIX &#x60;wc&#x60; command written in TypeScript.
+This is an example of using Mistral Le Chat to recreate the POSIX &#x60;wc&#x60; command written in TypeScript. The full transcript is available at &lt;https://chat.mistral.ai/chat/e97f1834-4e60-451a-b317-adcc301dbf12&gt;.
 
 - License: <https://www.gnu.org/licenses/agpl-3.0.en.html#license-text>
 - GitHub: <https://github.com/rsdoiel/ts_wc>
